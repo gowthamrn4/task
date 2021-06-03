@@ -1,0 +1,51 @@
+.card {
+  border: 2px solid #6ecd93;
+  box-shadow: 5px 6px 0px #6ecd93;
+  transition: 0.3s all;
+  border-radius: 3px;
+  background-color: #fff;
+  /* padding: 21px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 240px;
+  max-width: 95%;
+}
+
+.avatar img {  
+    border-radius: 50%;
+    border: 4px solid #6ecd93;
+    width: 121px;
+    margin-top: 14px;
+  }
+
+  .title {
+    font-size: 18px;
+    margin-top: 0px;
+    color: #6ecd93;
+  }
+
+  .description {
+    font-size: 17px;
+    margin-top: 0px;
+    color: #64707d;
+  }
+
+.social{
+  margin-left: -37px;
+  padding: 10px;
+}
+.social ul {
+    margin-top: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .social li {
+    display: inline;
+    font-size: 22px;
+    cursor: pointer;
+    color: #6ecd93;
+  }

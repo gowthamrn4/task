@@ -1,0 +1,8 @@
+.navbar-custom {
+    background-color:#6ecd93;
+    color:#ffffff;
+    border-radius:0;
+}
+a:hover{
+ cursor: pointer;
+}

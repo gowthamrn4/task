@@ -1,0 +1,43 @@
+.page_content{
+  width: 100%;
+  margin: 0 auto;
+}
+.container_box{
+    width: 100%;
+    display: flex;
+}
+.container_input{
+    width: 50%;
+ }
+.content{
+    width: 50%;
+    background: gray;
+    padding: 50px;
+}
+table{
+    margin-left: auto; 
+    margin-right: auto;
+}
+.id_card{
+    width: 50%;
+    background-color: lightgray;
+    margin: auto;
+}
+.inputgroup{
+    width: 100%;
+    display: flex;
+    margin: 10px;
+}
+.input{
+    background: lightcyan;
+    width: 70%;
+    padding: 10px;
+}
+.label{
+    width: 20%;
+    padding: 10px;
+}
+.button{
+    padding: 10px;
+}
+
